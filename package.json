@@ -1,0 +1,29 @@
+{
+  "name": "keyie-cms",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^1.1.4",
+    "axios": "^0.27.2",
+    "cjs2esmodule": "^1.1.1",
+    "echarts": "^5.3.2",
+    "element-plus": "^2.2.0",
+    "less": "^4.1.2",
+    "mitt": "^3.0.0",
+    "normalize.css": "^8.0.1",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.13",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "unplugin-auto-import": "^0.7.1",
+    "unplugin-vue-components": "^0.19.5",
+    "vite": "^2.9.9"
+  }
+}
